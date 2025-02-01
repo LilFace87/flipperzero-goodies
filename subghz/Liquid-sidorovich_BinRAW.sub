@@ -1,0 +1,9 @@
+Filetype: Flipper SubGhz Key File
+Version: 1
+Frequency: 300000000
+Preset: FuriHalSubGhzPresetOok650Async
+Protocol: BinRAW
+Bit: 252
+TE: 146
+Bit_RAW: 252
+Data_RAW: 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 1F FF F8 00 00 00 00 00 00 00 00 00 00 00 60

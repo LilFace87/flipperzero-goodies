@@ -1,0 +1,10 @@
+Filetype: Flipper SubGhz Key File
+Version: 1
+Frequency: 433920000
+Preset: FuriHalSubGhzPresetOok650Async
+Latitute: nan
+Longitude: nan
+Protocol: SMC5326
+Bit: 25
+Key: 00 00 00 00 00 01 79 80
+TE: 209

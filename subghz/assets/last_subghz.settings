@@ -1,0 +1,20 @@
+Filetype: Flipper SubGhz Last Setting File
+Version: 1
+Preset: 1
+Frequency: 300000000
+FeedbackLevel: 2
+FATrigger: -97.000000
+External: false
+ExtPower: false
+TimestampNames: true
+ExtPowerAmp: true
+Gps: 115200
+Hopping: true
+RSSI: -90.000000
+RemoveDuplicates: false
+IgnoreFilter: 0
+Filter: 1026
+Repeater: 0
+Sound: false
+DelOldSignals: false
+Autosave: false

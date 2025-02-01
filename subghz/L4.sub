@@ -1,0 +1,11 @@
+Filetype: Flipper SubGhz Key File
+Version: 1
+Frequency: 868350000
+Preset: FuriHalSubGhzPresetOok650Async
+Latitute: 0.000000
+Longitude: 0.000000
+Protocol: Faac SLH
+Bit: 64
+Key: A0 6F B6 86 91 07 23 02
+Seed: 76 6F B6 80
+AllowZeroSeed: true
